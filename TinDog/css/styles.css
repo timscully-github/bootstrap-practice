@@ -55,14 +55,17 @@ h1 {
 
 /* Features */
 
+#features {
+  padding: 7%;
+}
+
 .features-each {
     text-align: center;
+    padding: 4%;
 }
 
 .icon-style {
   color: #ef8172;
-  font-size: 3rem;
-  margin-top: 100px;
   padding-bottom: 10px;
 }
 
@@ -74,10 +77,8 @@ h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
   font-size: 1.5rem;
-  padding: 0 3% 0 3%;
 }
 
 p {
   color: #8f8f8f;
-  padding: 0 5% 0 5%;
 }
