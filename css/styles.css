@@ -119,3 +119,13 @@ p {
 .carousel-item {
   padding: 0 15%;
 }
+
+/* Price section */
+
+#pricing {
+  padding: 100px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
