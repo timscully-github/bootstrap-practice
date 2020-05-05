@@ -25,6 +25,13 @@ h2 {
   line-height: 1.5;
 }
 
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  color: #fff;
+}
+
 p {
   color: #8f8f8f;
 }
@@ -148,4 +155,12 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+/* CTA */
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15% 5%;
 }
