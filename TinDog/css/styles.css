@@ -52,3 +52,14 @@ h1 {
   -webkit-transfor: rotate(25deg);
   transform: rotate(25deg);
 }
+
+/* Features */
+
+.icon-color {
+  color: #ef8172;
+}
+
+.features-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
