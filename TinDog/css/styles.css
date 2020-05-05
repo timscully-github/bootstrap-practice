@@ -55,13 +55,29 @@ h1 {
 
 /* Features */
 
-.icon-color {
+.features-each {
+    text-align: center;
+}
+
+.icon-style {
   color: #ef8172;
   font-size: 3rem;
+  margin-top: 100px;
+  padding-bottom: 10px;
+}
+
+.icon-style:hover {
+  color: #ff4c68;
 }
 
 .features-title {
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
   font-size: 1.5rem;
+  padding: 0 3% 0 3%;
+}
+
+p {
+  color: #8f8f8f;
+  padding: 0 5% 0 5%;
 }
