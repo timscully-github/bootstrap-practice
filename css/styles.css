@@ -50,6 +50,14 @@ p {
   font-weight: 400;
 }
 
+/* Title section  */
+
+@media (max-width: 991px) {
+  #title {
+    text-align: center;
+  }
+}
+
 /* Download Buttons */
 
 .dl-buttons {
@@ -63,6 +71,14 @@ p {
   transform: rotate(25deg);
   position: absolute;
   right: 30%;
+}
+
+@media (max-width: 991px) {
+  .phone-img {
+    width: 40%;
+    position: static;
+    transform: rotate(0deg);
+  }
 }
 
 /* Features */
